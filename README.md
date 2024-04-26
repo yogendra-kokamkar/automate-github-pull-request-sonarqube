@@ -4,6 +4,8 @@
 
 This Jenkins Pipeline automates the code review process for pull requests from feature branches to the main branch. It utilizes Jenkins, SonarQube, and email notifications to streamline code review workflows and ensure code quality.
 
+![flow_diagram](https://github.com/yogendra-kokamkar/automate-github-pull-request-sonarqube/assets/55878086/6597d073-85f6-45b9-be31-b975ec3fede2)
+
 ## Workflow
 
 1. **Pull Request Creation:**
